@@ -1,5 +1,3 @@
-Use the code as reference to build 
+Use the code as reference to understand
 
-JSON strucuture
-Paste the structure on myjson (a fake API)
-consume the API and show results on UI.
+Creating Actions and listening the actions on the reducers
